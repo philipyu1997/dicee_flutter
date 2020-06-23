@@ -9,7 +9,7 @@
 ## Overview
 ### Description
 
-Dicee is a Las Vegas dice app. You can make the die roll at the press of a button or by shaking your phone. With this app in your pocket, you’ll be fully set up to settle any score on the go!
+Dicee is a Las Vegas dice app. You can make the die roll at the press of a button. With this app in your pocket, you’ll be fully set up to settle any score on the go!
 
 ## Product Specs
 ### User Stories
@@ -20,9 +20,9 @@ Dicee is a Las Vegas dice app. You can make the die roll at the press of a butto
 
 Here's a GIF of how the app works:
 
-<img src="https://user-images.githubusercontent.com/35745973/83956293-4abc8280-a811-11ea-9aee-b0389016f1e2.gif" width=250>
+<img src="https://github.com/py415/app-resources/blob/master/flutter/ios/flutter-ios-dicee.gif" width=250>
 
-<img src="https://user-images.githubusercontent.com/35745973/83956305-5f007f80-a811-11ea-9814-4e3af71c3dc1.gif" width=250>
+<img src="https://github.com/py415/app-resources/blob/master/flutter/android/flutter-android-dicee.gif" width=250>
 
 ## Credits
 
